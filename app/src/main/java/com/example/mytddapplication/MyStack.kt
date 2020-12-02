@@ -2,7 +2,12 @@ package com.example.mytddapplication
 
 import java.util.*
 import kotlin.collections.ArrayList
-
+/*
+*
+* Stack Class where do all stack operations
+* PUSH,POP
+*
+* */
 class MyStack {
     val stack = ArrayList<Int>()
 
